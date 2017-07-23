@@ -1,0 +1,60 @@
+* {
+	padding:0;
+	margin:0;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	box-sizing: border-box;
+}
+
+body {
+  background-image: url('../img/fondo.jpg');
+}
+
+.contenedor {
+	width: 80%;
+	margin: auto;
+}
+
+header nav {
+	background: #4da6ff;
+	margin-bottom: 10px;
+}
+	header nav ul {
+		list-style: none;
+		overflow: hidden;
+	}
+
+		header nav ul li {
+			float: left;
+		}
+
+			header nav ul li a {
+				display: block;
+				padding: 20px;
+				color: #fff;
+				text-decoration: none;
+			}
+
+			header nav ul li a:hover {
+				background: #2980b9;
+			}
+img.mediana {
+	width: 500px;
+	height: 500px;
+}
+
+.logo {
+	width: 95%;
+	margin:left
+	background: white;
+}
+
+	.logo img {
+		width: 10%;
+		height: 10%;
+	}
+
+.cuerpo {
+	width:80%;
+	margin:auto;
+}
