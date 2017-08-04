@@ -38,10 +38,18 @@ header nav {
 			header nav ul li a:hover {
 				background: #2980b9;
 			}
-img.mediana {
+img {
 	width: 500px;
 	height: 500px;
 }
+	img.izquierda {
+		float: left;
+	}
+
+	img.derecha {
+		float: right;
+		margin-right: 5px;
+	}
 
 .logo {
 	width: 95%;
@@ -57,4 +65,6 @@ img.mediana {
 .cuerpo {
 	width:80%;
 	margin:auto;
+	background: white;
+	background-size: cover;
 }
