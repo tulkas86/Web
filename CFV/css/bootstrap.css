@@ -4566,7 +4566,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a:focus {
     color: #ccc;
-   /* background-color: transparent; */
+   background-color: transparent;
   }
 }
 .navbar-default .navbar-link {
