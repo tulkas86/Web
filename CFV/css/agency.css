@@ -10,6 +10,7 @@ body {
 .text-muted {
   color: #777777;
   font-weight: bold;
+
 }
 .text-primary {
   color: #fed136;
@@ -294,6 +295,7 @@ section h3.section-subheading {
   font-weight: 400;
   margin-bottom: 75px;
 }
+
 @media (min-width: 768px) {
   section {
     padding: 150px 0;
@@ -584,27 +586,27 @@ section#contact ::-webkit-input-placeholder {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
-  color: #eeeeee;
+  color:#b0b0b0; /* #eeeeee; */
 }
 section#contact :-moz-placeholder {
   /* Firefox 18- */
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
-  color: #eeeeee;
+  color: #b0b0b0; /* #eeeeee; */
 }
 section#contact ::-moz-placeholder {
   /* Firefox 19+ */
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
-  color: #eeeeee;
+  color: #b0b0b0; /* #eeeeee; */
 }
 section#contact :-ms-input-placeholder {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
-  color: #eeeeee;
+  color: #b0b0b0; /* #eeeeee; */
 }
 section#contact .text-danger {
   color: #e74c3c;
